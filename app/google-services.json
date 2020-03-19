@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "912907849501",
+    "firebase_url": "https://classroommanager-32934.firebaseio.com",
+    "project_id": "classroommanager-32934",
+    "storage_bucket": "classroommanager-32934.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:912907849501:android:563e0d1d4167b564f79bf4",
+        "android_client_info": {
+          "package_name": "com.HemontoSoftware.classroommanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "912907849501-te607r666q2hfjr91ielu9kc14hefuss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.HemontoSoftware.classroommanager",
+            "certificate_hash": "2c5a8bf13d8a9c9dad0de19817ae5262eb8c393a"
+          }
+        },
+        {
+          "client_id": "912907849501-csf4nu025fdnadarv7k896jvojsjmqrk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpXhoy2HZ8UX4Fi3H3SmPyUijFyK17NfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "912907849501-csf4nu025fdnadarv7k896jvojsjmqrk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
