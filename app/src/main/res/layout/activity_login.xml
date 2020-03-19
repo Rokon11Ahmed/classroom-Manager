@@ -11,7 +11,7 @@
         android:padding="50dp"
         android:src="@drawable/ic_idea"
         android:layout_width="match_parent"
-        android:layout_height="230dp">
+        android:layout_height="270dp">
 
     </ImageView>
 
@@ -29,7 +29,7 @@
             android:hint="Email"
             android:ems="10"
             android:inputType="text"
-            android:textSize="22sp"/>
+            android:textSize="20sp"/>
     </com.google.android.material.textfield.TextInputLayout>
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
@@ -46,7 +46,7 @@
             android:hint="Password"
             android:ems="10"
             android:inputType="textPassword"
-            android:textSize="22sp"/>
+            android:textSize="20sp"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <Button

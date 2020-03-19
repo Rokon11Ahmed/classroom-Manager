@@ -32,7 +32,7 @@
             android:hint="Full Name"
             android:ems="10"
             android:inputType="text"
-            android:textSize="22sp"/>
+            android:textSize="20sp"/>
     </com.google.android.material.textfield.TextInputLayout>
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
@@ -48,7 +48,7 @@
             android:hint="Email Address"
             android:ems="10"
             android:inputType="text"
-            android:textSize="22sp"/>
+            android:textSize="20sp"/>
     </com.google.android.material.textfield.TextInputLayout>
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
@@ -64,7 +64,7 @@
             android:hint="Password"
             android:ems="10"
             android:inputType="text"
-            android:textSize="22sp"/>
+            android:textSize="20sp"/>
     </com.google.android.material.textfield.TextInputLayout>
     <com.google.android.material.textfield.TextInputLayout
         android:layout_width="match_parent"
@@ -80,7 +80,7 @@
             android:hint="Confirm Password"
             android:ems="10"
             android:inputType="text"
-            android:textSize="22sp"/>
+            android:textSize="20sp"/>
     </com.google.android.material.textfield.TextInputLayout>
 
     <TextView
@@ -101,7 +101,7 @@
         <RadioButton
             android:text="Teacher"
             android:id="@+id/radioButtonTeacherId"
-            android:textSize="22sp"
+            android:textSize="20sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
@@ -110,7 +110,7 @@
             android:layout_marginLeft="15dp"
             android:id="@+id/radioButtonStudentId"
             android:text="Student"
-            android:textSize="22sp"
+            android:textSize="20sp"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content">
 
